@@ -1,0 +1,229 @@
+prefix,tier,category,recommended_action,risk_level
+partnerships@,S,Partnerships & BizDev,Direct Pitch,Low
+partners@,S,Partnerships & BizDev,Direct Pitch,Low
+partner@,S,Partnerships & BizDev,Direct Pitch,Low
+bd@,S,Partnerships & BizDev,Direct Pitch,Low
+bizdev@,S,Partnerships & BizDev,Direct Pitch,Low
+b2b@,S,Partnerships & BizDev,Direct Pitch,Low
+alliances@,S,Partnerships & BizDev,Direct Pitch,Low
+channel@,S,Partnerships & BizDev,Direct Pitch,Low
+collab@,S,Partnerships & BizDev,Direct Pitch,Low
+collaboration@,S,Partnerships & BizDev,Direct Pitch,Low
+affiliates@,S,Partnerships & BizDev,Direct Pitch,Low
+affiliate@,S,Partnerships & BizDev,Direct Pitch,Low
+sponsors@,S,Partnerships & BizDev,Direct Pitch,Low
+sponsorship@,S,Partnerships & BizDev,Direct Pitch,Low
+ads@,S,Ad Sales & Monetization,Direct Pitch,Low
+ad@,S,Ad Sales & Monetization,Direct Pitch,Low
+advertising@,S,Ad Sales & Monetization,Direct Pitch,Low
+advertise@,S,Ad Sales & Monetization,Direct Pitch,Low
+monetization@,S,Ad Sales & Monetization,Direct Pitch,Low
+adops@,S,Ad Sales & Monetization,Direct Pitch,Low
+mediabuying@,S,Ad Sales & Monetization,Direct Pitch,Low
+ua@,S,Ad Sales & Monetization,Direct Pitch,Low
+traffic@,S,Ad Sales & Monetization,Direct Pitch,Low
+publisher@,S,Ad Sales & Monetization,Direct Pitch,Low
+publishers@,S,Ad Sales & Monetization,Direct Pitch,Low
+campaigns@,S,Ad Sales & Monetization,Direct Pitch,Low
+marketing@,S,Marketing & Growth,Direct Pitch,Low
+growth@,S,Marketing & Growth,Direct Pitch,Low
+digital@,S,Marketing & Growth,Direct Pitch,Low
+brand@,S,Marketing & Growth,Direct Pitch,Low
+branding@,S,Marketing & Growth,Direct Pitch,Low
+outreach@,S,Marketing & Growth,Direct Pitch,Low
+promo@,S,Marketing & Growth,Direct Pitch,Low
+promotions@,S,Marketing & Growth,Direct Pitch,Low
+influencer@,S,Marketing & Growth,Direct Pitch,Low
+influencers@,S,Marketing & Growth,Direct Pitch,Low
+creators@,S,Marketing & Growth,Direct Pitch,Low
+agency@,S,Marketing & Growth,Direct Pitch,Low
+cmo@,S,Marketing & Growth,Direct Pitch,Low
+ceo@,S,Executive & Founders,Direct Pitch,Low
+founder@,S,Executive & Founders,Direct Pitch,Low
+founders@,S,Executive & Founders,Direct Pitch,Low
+cofounder@,S,Executive & Founders,Direct Pitch,Low
+owner@,S,Executive & Founders,Direct Pitch,Low
+president@,S,Executive & Founders,Direct Pitch,Low
+executive@,S,Executive & Founders,Direct Pitch,Low
+leadership@,S,Executive & Founders,Direct Pitch,Low
+management@,S,Executive & Founders,Direct Pitch,Low
+director@,S,Executive & Founders,Direct Pitch,Low
+directors@,S,Executive & Founders,Direct Pitch,Low
+vp@,S,Executive & Founders,Direct Pitch,Low
+hello@,A,Front Desk,Soft Pitch or Referral,Low
+hi@,A,Front Desk,Soft Pitch or Referral,Low
+hey@,A,Front Desk,Soft Pitch or Referral,Low
+connect@,A,Front Desk,Soft Pitch or Referral,Low
+talk@,A,Front Desk,Soft Pitch or Referral,Low
+letschat@,A,Front Desk,Soft Pitch or Referral,Low
+sayhello@,A,Front Desk,Soft Pitch or Referral,Low
+reachus@,A,Front Desk,Soft Pitch or Referral,Low
+contact@,A,Front Desk,Soft Pitch or Referral,Low
+team@,A,Front Desk,Soft Pitch or Referral,Low
+office@,A,Front Desk,Soft Pitch or Referral,Low
+app@,A,App & Game Studios,Direct or Soft Pitch,Low
+apps@,A,App & Game Studios,Direct or Soft Pitch,Low
+app.contact@,A,App & Game Studios,Direct or Soft Pitch,Low
+games@,A,App & Game Studios,Direct or Soft Pitch,Low
+game@,A,App & Game Studios,Direct or Soft Pitch,Low
+mobile@,A,App & Game Studios,Direct or Soft Pitch,Low
+ios@,A,App & Game Studios,Direct or Soft Pitch,Low
+android@,A,App & Game Studios,Direct or Soft Pitch,Low
+studio@,A,App & Game Studios,Direct or Soft Pitch,Low
+developers@,A,App & Game Studios,Direct or Soft Pitch,Low
+developer@,A,App & Game Studios,Direct or Soft Pitch,Low
+business@,A,Commercial & Sales,Soft Pitch or Referral,Low
+newbusiness@,A,Commercial & Sales,Soft Pitch or Referral,Low
+sales@,A,Commercial & Sales,Soft Pitch or Referral,Low
+commercial@,A,Commercial & Sales,Soft Pitch or Referral,Low
+revenue@,A,Commercial & Sales,Soft Pitch or Referral,Low
+enterprise@,A,Commercial & Sales,Soft Pitch or Referral,Low
+corporate@,A,Commercial & Sales,Soft Pitch or Referral,Low
+inquiries@,A,Commercial & Sales,Soft Pitch or Referral,Low
+enquiry@,A,Commercial & Sales,Soft Pitch or Referral,Low
+enquiries@,A,Commercial & Sales,Soft Pitch or Referral,Low
+deals@,A,Commercial & Sales,Soft Pitch or Referral,Low
+pr@,A,PR & Media,Direct Pitch,Low
+press@,A,PR & Media,Direct Pitch,Low
+media@,A,PR & Media,Direct Pitch,Low
+news@,A,PR & Media,Direct Pitch,Low
+editorial@,A,PR & Media,Direct Pitch,Low
+editor@,A,PR & Media,Direct Pitch,Low
+editors@,A,PR & Media,Direct Pitch,Low
+publicrelations@,A,PR & Media,Direct Pitch,Low
+product@,B,Product & Tech,Contextual Pitch,Medium
+products@,B,Product & Tech,Contextual Pitch,Medium
+tech@,B,Product & Tech,Contextual Pitch,Medium
+dev@,B,Product & Tech,Contextual Pitch,Medium
+engineering@,B,Product & Tech,Contextual Pitch,Medium
+it@,B,Product & Tech,Contextual Pitch,Medium
+software@,B,Product & Tech,Contextual Pitch,Medium
+sdk@,B,Product & Tech,Contextual Pitch,Medium
+api@,B,Product & Tech,Contextual Pitch,Medium
+integrations@,B,Product & Tech,Contextual Pitch,Medium
+data@,B,Product & Tech,Contextual Pitch,Medium
+cloud@,B,Product & Tech,Contextual Pitch,Medium
+devops@,B,Product & Tech,Contextual Pitch,Medium
+ops@,B,Product & Tech,Contextual Pitch,Medium
+cto@,B,Product & Tech,Contextual Pitch,Medium
+web@,B,Web & E-Commerce,Contextual Pitch,Medium
+website@,B,Web & E-Commerce,Contextual Pitch,Medium
+site@,B,Web & E-Commerce,Contextual Pitch,Medium
+appcrm@,B,Web & E-Commerce,Contextual Pitch,Medium
+store@,B,Web & E-Commerce,Contextual Pitch,Medium
+shop@,B,Web & E-Commerce,Contextual Pitch,Medium
+retail@,B,Web & E-Commerce,Contextual Pitch,Medium
+wholesale@,B,Web & E-Commerce,Contextual Pitch,Medium
+buyers@,B,Web & E-Commerce,Contextual Pitch,Medium
+buying@,B,Web & E-Commerce,Contextual Pitch,Medium
+procurement@,B,Web & E-Commerce,Contextual Pitch,Medium
+purchasing@,B,Web & E-Commerce,Contextual Pitch,Medium
+vendor@,B,Web & E-Commerce,Contextual Pitch,Medium
+vendors@,B,Web & E-Commerce,Contextual Pitch,Medium
+community@,B,Community & Content,Contextual Pitch,Medium
+social@,B,Community & Content,Contextual Pitch,Medium
+content@,B,Community & Content,Contextual Pitch,Medium
+events@,B,Community & Content,Contextual Pitch,Medium
+ambassadors@,B,Community & Content,Contextual Pitch,Medium
+general@,B,General Secondary,Routing Request,Medium
+contactus@,B,General Secondary,Routing Request,Medium
+questions@,B,General Secondary,Routing Request,Medium
+welcome@,B,General Secondary,Routing Request,Medium
+solutions@,B,General Secondary,Routing Request,Medium
+consulting@,B,General Secondary,Routing Request,Medium
+sale@,B,General Secondary,Routing Request,Medium
+hq@,B,General Secondary,Routing Request,Medium
+company@,B,General Secondary,Routing Request,Medium
+inbox@,B,General Secondary,Routing Request,Medium
+info@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+information@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+mail@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+email@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+frontdesk@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+reception@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+desk@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+generalinquiries@,C,Generic Catch-Alls,Routing Request Only,Medium-High
+support@,C,Customer Support,Routing Request Only,Medium-High
+app.support@,C,Customer Support,Routing Request Only,Medium-High
+help@,C,Customer Support,Routing Request Only,Medium-High
+service@,C,Customer Support,Routing Request Only,Medium-High
+customerservice@,C,Customer Support,Routing Request Only,Medium-High
+customercare@,C,Customer Support,Routing Request Only,Medium-High
+care@,C,Customer Support,Routing Request Only,Medium-High
+cs@,C,Customer Support,Routing Request Only,Medium-High
+helpdesk@,C,Customer Support,Routing Request Only,Medium-High
+tickets@,C,Customer Support,Routing Request Only,Medium-High
+clientservices@,C,Customer Support,Routing Request Only,Medium-High
+clients@,C,Customer Support,Routing Request Only,Medium-High
+success@,C,Customer Support,Routing Request Only,Medium-High
+customersuccess@,C,Customer Support,Routing Request Only,Medium-High
+feedback@,C,Customer Support,Routing Request Only,Medium-High
+accounts@,D,Finance & Orders,Avoid,High
+accounting@,D,Finance & Orders,Avoid,High
+finance@,D,Finance & Orders,Avoid,High
+billing@,D,Finance & Orders,Avoid,High
+invoices@,D,Finance & Orders,Avoid,High
+invoice@,D,Finance & Orders,Avoid,High
+ap@,D,Finance & Orders,Avoid,High
+ar@,D,Finance & Orders,Avoid,High
+payments@,D,Finance & Orders,Avoid,High
+cfo@,D,Finance & Orders,Avoid,High
+orders@,D,Finance & Orders,Avoid,High
+order@,D,Finance & Orders,Avoid,High
+shipping@,D,Finance & Orders,Avoid,High
+returns@,D,Finance & Orders,Avoid,High
+logistics@,D,Finance & Orders,Avoid,High
+fulfillment@,D,Finance & Orders,Avoid,High
+hr@,D,HR & Recruiting,Avoid,High
+careers@,D,HR & Recruiting,Avoid,High
+jobs@,D,HR & Recruiting,Avoid,High
+talent@,D,HR & Recruiting,Avoid,High
+recruiting@,D,HR & Recruiting,Avoid,High
+recruitment@,D,HR & Recruiting,Avoid,High
+hiring@,D,HR & Recruiting,Avoid,High
+people@,D,HR & Recruiting,Avoid,High
+work@,D,HR & Recruiting,Avoid,High
+internships@,D,HR & Recruiting,Avoid,High
+admin@,D,Admin & Legal,Avoid,High
+administration@,D,Admin & Legal,Avoid,High
+webmaster@,D,Admin & Legal,Avoid,High
+legal@,D,Admin & Legal,Avoid,High
+compliance@,D,Admin & Legal,Avoid,High
+privacy@,D,Admin & Legal,Avoid,High
+gdpr@,D,Admin & Legal,Avoid,High
+copyright@,D,Admin & Legal,Avoid,High
+ip@,D,Admin & Legal,Avoid,High
+letters@,D,Admin & Legal,Avoid,High
+tips@,D,Admin & Legal,Avoid,High
+submissions@,D,Admin & Legal,Avoid,High
+beta@,D,Admin & Legal,Avoid,High
+bugs@,D,Admin & Legal,Avoid,High
+postmaster@,F,Blacklist,Never Send,Critical
+hostmaster@,F,Blacklist,Never Send,Critical
+abuse@,F,Blacklist,Never Send,Critical
+spam@,F,Blacklist,Never Send,Critical
+security@,F,Blacklist,Never Send,Critical
+infosec@,F,Blacklist,Never Send,Critical
+root@,F,Blacklist,Never Send,Critical
+sysadmin@,F,Blacklist,Never Send,Critical
+webadmin@,F,Blacklist,Never Send,Critical
+daemon@,F,Blacklist,Never Send,Critical
+noc@,F,Blacklist,Never Send,Critical
+dmca@,F,Blacklist,Never Send,Critical
+cert@,F,Blacklist,Never Send,Critical
+phishing@,F,Blacklist,Never Send,Critical
+noreply@,F,Blacklist,Never Send,Critical
+no-reply@,F,Blacklist,Never Send,Critical
+donotreply@,F,Blacklist,Never Send,Critical
+do-not-reply@,F,Blacklist,Never Send,Critical
+mailer-daemon@,F,Blacklist,Never Send,Critical
+bounces@,F,Blacklist,Never Send,Critical
+bounce@,F,Blacklist,Never Send,Critical
+unsubscribe@,F,Blacklist,Never Send,Critical
+null@,F,Blacklist,Never Send,Critical
+devnull@,F,Blacklist,Never Send,Critical
+auto@,F,Blacklist,Never Send,Critical
+automated@,F,Blacklist,Never Send,Critical
+system@,F,Blacklist,Never Send,Critical
+notifications@,F,Blacklist,Never Send,Critical
+alerts@,F,Blacklist,Never Send,Critical
